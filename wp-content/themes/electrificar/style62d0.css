@@ -1,0 +1,19 @@
+/*
+Theme Name: Electri
+Author: Jackson
+Author URI: http://electri.com/
+Description: Esta es la descripción
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/*Wordpress editor styles start*/
+
+.admin-bar .navbar-fixed-top{
+	margin-top: 30px;
+}
+
+
+/*Wordpress editor styles end*/
+
